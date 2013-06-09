@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1356024151 source:/home/showlove/Desktop/2C++_codeblocks2/class_template/classTemplate.cpp
+	<iostream>
+	"classTemplate.h"
+
+1356024453 /home/showlove/Desktop/2C++_codeblocks2/class_template/classTemplate.h
+	<iostream>
+	"classTemplate.h"
+
+1356024136 source:/home/showlove/Desktop/2C++_codeblocks2/class_template/main.cpp
+	<iostream>
+	"classTemplate.h"
+

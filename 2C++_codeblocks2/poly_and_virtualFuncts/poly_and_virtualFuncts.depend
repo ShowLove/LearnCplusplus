@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1356015933 source:/home/showlove/Desktop/2C++_codeblocks2/poly_and_virtualFuncts/enemy.cpp
+	<iostream>
+	"enemy.h"
+	"ninja.h"
+	"monster.h"
+
+1356016235 /home/showlove/Desktop/2C++_codeblocks2/poly_and_virtualFuncts/enemy.h
+
+1356015934 /home/showlove/Desktop/2C++_codeblocks2/poly_and_virtualFuncts/ninja.h
+
+1356016137 /home/showlove/Desktop/2C++_codeblocks2/poly_and_virtualFuncts/monster.h
+
+1356016203 source:/home/showlove/Desktop/2C++_codeblocks2/poly_and_virtualFuncts/main.cpp
+	<iostream>
+	"enemy.h"
+	"ninja.h"
+	"monster.h"
+
+1356015934 source:/home/showlove/Desktop/2C++_codeblocks2/poly_and_virtualFuncts/monster.cpp
+	<iostream>
+	"enemy.h"
+	"ninja.h"
+	"monster.h"
+
+1356015934 source:/home/showlove/Desktop/2C++_codeblocks2/poly_and_virtualFuncts/ninja.cpp
+	<iostream>
+	"enemy.h"
+	"ninja.h"
+	"monster.h"
+

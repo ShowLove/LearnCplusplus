@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1355418959 source:/home/showlove/Desktop/C++_codeblocks/const_Objects/class1.cpp
+	"class1.h"
+	<iostream>
+
+1355418939 /home/showlove/Desktop/C++_codeblocks/const_Objects/class1.h
+
+1355418939 source:/home/showlove/Desktop/C++_codeblocks/const_Objects/main.cpp
+	"class1.h"
+	<iostream>
+

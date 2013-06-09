@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1356069425 source:/home/showlove/Desktop/2C++_codeblocks2/Files_formating/main.cpp
+	<fstream>
+
+1356069854 source:/home/showlove/Desktop/2C++_codeblocks2/Files_formating/read.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1357152480 source:/home/showlove/Desktop/3C++_codeblocks3/Battle/main.cpp
+	<iostream>
+	"battleField.h"
+	<fstream>
+	"possition.h"
+	<string>
+	"debug.h"
+	"player2.h"
+	<cstdlib>
+	<ctime>
+
+1356758272 /home/showlove/Desktop/3C++_codeblocks3/Battle/battleField.h
+
+1357142754 source:/home/showlove/Desktop/3C++_codeblocks3/Battle/battleField.cpp
+	<iostream>
+	"battleField.h"
+	<fstream>
+	"possition.h"
+	<string>
+	"debug.h"
+	"player2.h"
+	<cstdlib>
+	<ctime>
+
+1356716084 /home/showlove/Desktop/3C++_codeblocks3/Battle/possition.h
+
+1357142754 source:/home/showlove/Desktop/3C++_codeblocks3/Battle/possition.cpp
+	<iostream>
+	"battleField.h"
+	<fstream>
+	"possition.h"
+	<string>
+	"debug.h"
+	"player2.h"
+	<cstdlib>
+	<ctime>
+
+1356639113 /home/showlove/Desktop/3C++_codeblocks3/Battle/debug.h
+
+1356640796 source:/home/showlove/Desktop/3C++_codeblocks3/Battle/debug.cpp
+	<iostream>
+	"battleField.h"
+	<fstream>
+	"possition.h"
+	<string>
+	"debug.h"
+
+1357152480 /home/showlove/Desktop/3C++_codeblocks3/Battle/player2.h
+
+1357149650 source:/home/showlove/Desktop/3C++_codeblocks3/Battle/player2.cpp
+	<iostream>
+	"battleField.h"
+	<fstream>
+	"possition.h"
+	<string>
+	"debug.h"
+	"player2.h"
+	<cstdlib>
+	<ctime>
+

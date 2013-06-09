@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1355434463 source:/home/showlove/Desktop/C++_codeblocks/Composition /Birthday.cpp
+	"Birthday.h"
+	"people.h"
+	<iostream>
+
+1355434424 /home/showlove/Desktop/C++_codeblocks/Composition /Birthday.h
+
+1355436030 /home/showlove/Desktop/C++_codeblocks/Composition /people.h
+	<string>
+	"Birthday.h"
+
+1355434539 source:/home/showlove/Desktop/C++_codeblocks/Composition /main.cpp
+	<iostream>
+	"Birthday.h"
+	"people.h"
+
+1355436236 source:/home/showlove/Desktop/C++_codeblocks/Composition /people.cpp
+	"people.h"
+	<iostream>
+	"Birthday.h"
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1355982098 source:/home/showlove/Desktop/2C++_codeblocks2/realPolymorphism_andVirtual/Enemy .cpp
+	"Enemy .h"
+	<iostream>
+
+1355981594 /home/showlove/Desktop/2C++_codeblocks2/realPolymorphism_andVirtual/monster.h
+
+1355982272 /home/showlove/Desktop/2C++_codeblocks2/realPolymorphism_andVirtual/Enemy .h
+
+1355980474 /home/showlove/Desktop/2C++_codeblocks2/realPolymorphism_andVirtual/ninja.h
+
+1355982137 source:/home/showlove/Desktop/2C++_codeblocks2/realPolymorphism_andVirtual/main.cpp
+	"Enemy .h"
+	"ninja.h"
+	"monster.h"
+	<iostream>
+
+1355981759 source:/home/showlove/Desktop/2C++_codeblocks2/realPolymorphism_andVirtual/monster.cpp
+	"Enemy .h"
+	"ninja.h"
+	"monster.h"
+	<iostream>
+
+1355981989 source:/home/showlove/Desktop/2C++_codeblocks2/realPolymorphism_andVirtual/ninja.cpp
+	"Enemy .h"
+	"ninja.h"
+	"monster.h"
+	<iostream>
+

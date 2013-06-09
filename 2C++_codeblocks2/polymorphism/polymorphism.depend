@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1355937561 source:/home/showlove/Desktop/2C++_codeblocks2/polymorphism/monster.cpp
+	"monster.h"
+	"ninja.h"
+	"nazi.h"
+	<iostream>
+
+1355940232 /home/showlove/Desktop/2C++_codeblocks2/polymorphism/monster.h
+
+1355937368 /home/showlove/Desktop/2C++_codeblocks2/polymorphism/ninja.h
+
+1355937561 /home/showlove/Desktop/2C++_codeblocks2/polymorphism/nazi.h
+
+1355937561 source:/home/showlove/Desktop/2C++_codeblocks2/polymorphism/nazi.cpp
+	"monster.h"
+	"ninja.h"
+	"nazi.h"
+	<iostream>
+
+1355937561 source:/home/showlove/Desktop/2C++_codeblocks2/polymorphism/ninja.cpp
+	"monster.h"
+	"ninja.h"
+	"nazi.h"
+	<iostream>
+
+1355940060 source:/home/showlove/Desktop/2C++_codeblocks2/polymorphism/main.cpp
+	"monster.h"
+	"ninja.h"
+	"nazi.h"
+	<iostream>
+

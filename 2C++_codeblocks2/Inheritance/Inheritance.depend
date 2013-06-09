@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1355877220 source:/home/showlove/Desktop/C++_codeblocks/Inheritance/Mother.cpp
+	<iostream>
+	"Mother.h"
+	"Son.h"
+	<string>
+
+1355877180 /home/showlove/Desktop/C++_codeblocks/Inheritance/Mother.h
+
+1355875706 /home/showlove/Desktop/C++_codeblocks/Inheritance/Son.h
+
+1355872830 source:/home/showlove/Desktop/C++_codeblocks/Inheritance/Son.cpp
+	<iostream>
+	"Mother.h"
+	"Son.h"
+	<string>
+
+1355872830 source:/home/showlove/Desktop/C++_codeblocks/Inheritance/main.cpp
+	<iostream>
+	"Mother.h"
+	"Son.h"
+	<string>
+
+1355872830 source:/home/showlove/Desktop/2C++_codeblocks2/Inheritance/Son.cpp
+	<iostream>
+	"Mother.h"
+	"Son.h"
+	<string>
+
+1355877180 /home/showlove/Desktop/2C++_codeblocks2/Inheritance/Mother.h
+
+1355875706 /home/showlove/Desktop/2C++_codeblocks2/Inheritance/Son.h
+

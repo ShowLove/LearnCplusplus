@@ -1,0 +1,38 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+class BuckysClass{
+        public:
+//constructor has no int or void "no return". it is alwasy the same name as the class
+// the perameter is "string z"
+
+//we are taking luckbucky roberts and putting it into z
+                BuckysClass(string z) {
+        //this is calling the function further down the code called SetName
+        //Calling this func is legal btw, think of how you would call a func in int main
+                 setName (z);
+                }
+                void setName (string x) {
+                 name = x;
+                }
+                string getname () {
+                 return name;
+                }
+        private:
+                string name;
+};
+
+int main ()
+{       // as soon as you create an object from your constructor things happen automatically
+    // created an object called bo
+        //BuckysClass bo;
+//before we would have to do bo.(what ever function we want from BuckysClass")
+        BuckysClass bo("my firts constructor");
+
+        /* now that we have aoutomaticaly set "lucky Bucky roberts = name"
+        we call the getname function that returns name, this is what we
+        print out */
+        cout << bo.getname();
+        return 0;
+}

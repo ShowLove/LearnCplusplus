@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1356464588 source:/home/showlove/Desktop/3C++_codeblocks3/Dynamic_Mem2/kitty.cpp
+	<iostream>
+	"kitty.h"
+
+1356464559 /home/showlove/Desktop/3C++_codeblocks3/Dynamic_Mem2/kitty.h
+
+1356464931 source:/home/showlove/Desktop/3C++_codeblocks3/Dynamic_Mem2/main.cpp
+	<iostream>
+	"kitty.h"
+
